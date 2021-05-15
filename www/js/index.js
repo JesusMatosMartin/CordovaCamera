@@ -21,3 +21,4 @@ function successCallback(imageData) {
 function errorCallback() {
     alert('Doesnt work!');
 }
+// commit 7
